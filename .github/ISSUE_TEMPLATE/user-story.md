@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a <persona> I want to <need> so that <benefit>
+As a <role> I want to <capability> so that < receive benefit>
